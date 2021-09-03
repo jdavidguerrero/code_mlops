@@ -14,7 +14,7 @@ pr:
     include:
       - environment_setup/arm-templates/*
 
-pool: Juans-MacBook-Air
+pool: Default
 
 variables:
   - group: devopsforai-aml-vg
