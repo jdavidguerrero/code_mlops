@@ -2,7 +2,7 @@
 trigger:
   branches:
     include:
-      - master
+      - development
   paths:
     include:
       - environment_setup/arm-templates/*
